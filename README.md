@@ -9,6 +9,12 @@
     
 # Other Projects
     Contains any unfinished projects/scripts that I am currently working on.
+    
+    
+# Websites
+     A folder containing websites I have already designed.
+     
+     
    
       
       
